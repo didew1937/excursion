@@ -4,16 +4,18 @@ html {
     text-align: center;
 }
 
+header, main {
+    color: white;
+}
+
 h1 {
     font-weight: normal;
     font-size: 50px;
-    color: white;
 }
 
 h2 {
     font-size: 42px;
     font-weight: 300;
-    color: white;
 }
 
 footer {
